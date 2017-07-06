@@ -43,8 +43,3 @@ Login by SSH
 ssh root@localhost -p 49160
 password: admin
 ```
-
-Login to web administrator on a browser:
-```
-http://localhost:49162/apex
-```
